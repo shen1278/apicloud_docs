@@ -4,8 +4,8 @@
 
 #Markdown 编辑工具
 
-* Windows 平台：[http://pan.baidu.com/s/1hqzldRm](markdownpad2)
-* Mac 平台：[http://pan.baidu.com/s/1nRXVo](MacDown)
+* Windows 平台：[markdownpad2](http://pan.baidu.com/s/1hqzldRm)
+* Mac 平台：[MacDown](http://pan.baidu.com/s/1nRXVo)
 
 #目录与页面的关系
  
