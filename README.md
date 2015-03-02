@@ -25,7 +25,7 @@ Title: 平台介绍
 点击右上角的 "Fork" 按钮，然后，
 
 `
-#yourName 为您的github昵称
+/*yourName 为您的github昵称*/
 git clone https://github.com/yourName/apicloud_docs.git
 `
 
